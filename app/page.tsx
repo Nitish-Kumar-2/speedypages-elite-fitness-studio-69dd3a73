@@ -132,7 +132,7 @@ export default function Home() {
 };
   const ctaProps = {
     'title': 'Join Us Today!',
-    'description': 'Experience the best fitness journey tailored for you. Our expert trainers are here to help you achieve your goals, whether you're a beginner or an experienced athlete.',
+    'description': 'Experience the best fitness journey tailored for you. Our expert trainers are here to help you achieve your goals, whether you\'re a beginner or an experienced athlete.',
     'primaryButton': 'Get Started',
     'secondaryButton': 'Learn More'
 };
