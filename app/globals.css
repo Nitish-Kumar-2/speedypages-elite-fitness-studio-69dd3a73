@@ -1,0 +1,20 @@
+/* Tailwind CSS Directives - MUST BE FIRST */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Color Variables */
+:root {
+  /* Generate color palette based on #10B981 */
+  --color-primary: #10B981;
+  --color-primary-dark: #0f9b6e;
+  --color-primary-light: #3cd6a4;
+  --color-secondary: #f59e0b;
+  --color-accent: #3b82f6;
+  --color-background: #ffffff;
+  --color-text: #1f2937;
+  --color-success: #4caf50;
+  --color-warning: #ff9800;
+  --color-error: #f44336;
+  --color-info: #2196f3;
+}
